@@ -1,2 +1,6 @@
 # The-open-source-configuration-mapping-in-DPQKET
 The open-source configuration mapping in DPQKET.
+
+# 隐私计算技术解决方案。 翻译成英文
+The open-source configuration mapping in DPQKET serves as the underlying mapping structure for the world's fastest fully homomorphic encryption computing technology. It is designed based on schemes such as the Chinese Remainder Theorem (CRT). Users can set parameters within this structure to construct specific homomorphic configuration mappings, integrate corresponding components, and appropriately combine them in accordance with Nakayama's lemma. Subsequently, by selecting corresponding innovative cryptographic algorithm modules based on the model characteristics and frequency requirements of the application scenario, a customized DPQKET privacy-preserving computing technical solution can be ultimately assembled.
+# DPQKET中的开源构型映射，是当前全球最快的全量密态运算技术的底层映射结构。它基于CRT（中国剩余定理）等方案设计而成。用户可在该结构上设置参数，构建具体的同态构型映射，并结合相应组件，依据Nakayama引理进行恰当组合。随后，根据应用场景的模型特性与频率需求，选取相应的创新密码算法模块，即可最终组装成定制化的DPQKET隐私计算技术解决方案。
